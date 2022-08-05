@@ -43,7 +43,7 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 global.packname = '© FUZEBOT' //sticker wm ubah
 global.author = '' //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.typemenu = 'doc'
+global.typemenu = ''
 global.multiplier = 69
 global.limitawal = {
     premium: "Infinity",
